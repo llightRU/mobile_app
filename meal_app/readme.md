@@ -9,6 +9,11 @@ Click in category will show the meals in that category
 
 ![Screenshot 2024-10-11 003738](https://github.com/user-attachments/assets/6247220b-b99d-4876-a759-fb338436ca75)
 
+Choose your meal you love
+
+
+![Screenshot 2024-10-11 010029](https://github.com/user-attachments/assets/fd9c1ed8-dc65-488b-8242-0da7603a87cb)
+
 
 Have a slide bar so you can choose to filter meals
 
