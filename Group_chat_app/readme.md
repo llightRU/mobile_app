@@ -23,7 +23,7 @@ When the app runs in the background, Firebase Cloud Messaging (FCM) sends a noti
 
 ![Screenshot 2024-10-31 180951](https://github.com/user-attachments/assets/69df0108-dbc7-483c-81f3-bbd0cc1ae254)
 ![Screenshot 2024-10-31 180946](https://github.com/user-attachments/assets/970d0632-3271-41b3-a041-0818fac495b9)
-![Screenshot 2024-10-31 180008](https://github.com/user-attachments/assets/3f503a6b-3937-439c-a952-92bf2e70e828)
-![Screenshot 2024-10-31 180932](https://github.com/user-attachments/assets/0fc31abf-1f52-44c9-b926-99721a42454a)
 ![Screenshot 2024-10-31 180907](https://github.com/user-attachments/assets/fc74cad4-b80d-4aa9-982a-f62a5ea4cf0a)
+![Screenshot 2024-10-31 180008](https://github.com/user-attachments/assets/3f503a6b-3937-439c-a952-92bf2e70e828)
+
 
